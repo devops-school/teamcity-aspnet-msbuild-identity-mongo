@@ -1,3 +1,7 @@
+Some Tips for Setting up TeamCity Project and Build Configurations
+=====================
+Microsoft Build Tools 2015 - https://www.microsoft.com/en-us/download/details.aspx?id=48159
+
 AspNet.Identity.Mongo
 =====================
 
